@@ -1,4 +1,15 @@
 # 武陵資訊讀書會
+## Online Judge
+- Wuling Online Judge: [http://3dfa7fed3c4e.ngrok.io/](http://3dfa7fed3c4e.ngrok.io/)
+- ZeroJudge: [https://zerojudge.tw/](https://zerojudge.tw/)
+- TIOJ: [https://tioj.ck.tp.edu.tw/](https://tioj.ck.tp.edu.tw/)
+- AtCoder: [https://atcoder.jp/](https://atcoder.jp/)
+- CodeForces: [https://codeforces.com/](https://codeforces.com/)
+
+## 網路資源
+- 2020 資訊之芽語法班: [https://tw-csie-sprout.github.io/c2020/#!index.md](https://tw-csie-sprout.github.io/c2020/#!index.md)
+- GeeksForGeeks: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+
 ## 課程
 ### 8/13
 - 講義PDF：[C++ Basic](https://github.com/jayin92/wulingInfor/raw/master/C%2B%2BBasic/C%2B%2BBasic.pdf)
